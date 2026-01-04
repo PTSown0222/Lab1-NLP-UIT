@@ -1,17 +1,16 @@
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&auto=format&fit=crop" alt="AI NLP Banner" style="border-radius: 10px; width: 100%; max-height: 300px; object-fit: cover;">
+<div align="center" style="background-color: #161b22; border: 2px solid #30363d; border-radius: 15px; padding: 25px; margin-bottom: 25px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h1 style="border-bottom: none; margin-bottom: 15px; font-size: 2.5em;">
+    🧠 NLP & Generative AI Lab Series
+  </h1>
   
-  <h1 style="font-size: 3em; margin-top: 20px;">🧠 NLP & Generative AI Lab Series</h1>
-  
-  <p style="font-size: 1.2em; color: #8b949e;">
-    Hành trình xây dựng Large Language Models (LLMs): Từ N-gram cơ bản đến Fine-tuning hiện đại.
-  </p>
+  <marquee direction="left" scrollamount="10" style="font-size: 1.3em; color: #58a6ff; font-weight: bold; padding: 10px 0;">
+    🚀 Hành trình từ số 0 đến LLMs: Xử lý dữ liệu ➡️ Mô hình thống kê (N-gram) ➡️ Transformers Inference ➡️ Hiện đại hóa với Fine-tuning (PEFT/LoRA) --- 🎓 Lab thực hành UIT.
+  </marquee>
 
-<p>
+<p style="margin-top: 20px;">
     <img src="https://img.shields.io/badge/Language-Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
     <img src="https://img.shields.io/badge/Library-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-    <img src="https://img.shields.io/badge/Tool-Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
     <img src="https://img.shields.io/badge/Focus-NLP_&_LLMs-4B8BBE?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
   </p>
 </div>
